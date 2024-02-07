@@ -1,0 +1,17 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Talison Dev"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "/home/talis/Downloads/3285303-astronomy-galaxy-planets-solar-space-star-universe_106790.png"
+
+[author]
+image = "p2.png"
+name = "Talison Fabio"
+headline = "Building software with a brain and a colorful terminal"
+links = [ { github = "https://github.com/talis-fb" }, { linkedin = "https://www.linkedin.com/in/talison-fabio/" }, { telegram = "https://t.me/Talis_Fb" } ]
