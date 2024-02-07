@@ -22,12 +22,12 @@ showRecent = false
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts"
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
 
 [article]
-showDate = true
+showDate = false
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
@@ -42,7 +42,7 @@ showEdit = false
 editAppendPath = true
 seriesOpened = false
 showHeadingAnchors = true
-showPagination = true
+showPagination = false
 invertPagination = false
 showReadingTime = true
 showTableOfContents = false
@@ -62,7 +62,7 @@ showLikes = false
 showTableOfContents = false
 showCards = false
 groupByYear = true
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 constrainItemsWidth = false
 
